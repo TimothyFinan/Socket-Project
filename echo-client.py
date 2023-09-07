@@ -1,5 +1,8 @@
 # echo-client.py
 
+# here are some random comments
+# another line of random comments
+#
 import socket
 
 HOST = "127.0.0.1"  # The server's hostname or IP address
